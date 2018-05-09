@@ -1,0 +1,38 @@
+Mehedi:::
+=======
+Vara=2400
+Gas+Elec+Moila+Water=338
+Bua=400
+Mill=198
+Net=117
+============
+       3453
+
+Lipon:::
+=======
+Advanced= 2400
+Vara=2400
+Net=117
+Gas=115
+Water=72
+============
+    5104
+
+
+Diganta=
+========
+Bua=400
+Current=138
+Moila=15
+============
+     553
+
+Jahid:::
+=======
+Vara=2400
+Gas+Elec+Moila+Water=338
+Bua=400
+Net=117
+============
+       3453
+      -
